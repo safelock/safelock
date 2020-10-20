@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![safelock's github stats](https://github-readme-stats.vercel.app/api?username=safelock&count_private=true&show_icons=true&theme=tokyonight))]()
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safelock&layout=compact&theme=tokyonight))]()
+[![safelock's github stats](https://github-readme-stats.vercel.app/api?username=safelock&count_private=true&show_icons=true&theme=tokyonight)]()
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safelock&layout=compact&theme=tokyonight)]()
 
 - 🔭 I’m currently working on not being bored at University.
 - 🌱 I’m currently learning Go and PHP, because why not?
