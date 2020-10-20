@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Randall! (on the Internet as either safelock or safelockify) 👋
 
 <!--
 **safelock/safelock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![safelock's github stats](https://github-readme-stats.vercel.app/api?username=safelock&count_private=true&show_icons=true&theme=tokyonight))]()
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safelock&layout=compact&theme=tokyonight))]()
+
+- 🔭 I’m currently working on not being bored at University.
+- 🌱 I’m currently learning Go and PHP, because why not?
+- 📫 How to reach me: Use the email on my [website](https://www.randalllowe.com/#contact) or [h...](https://assets.rslowe.net/mailhide/email.html?mailKey=CLv4J1oBxv4GwSmSe1uI)@rslowe.net
+- 😄 Pronouns: He/Him/His or They/Them/Theirs (Either one is good!)
+- ⚡ Fun fact: I don't use Twitter, even though I do have a Twitter Handle.
