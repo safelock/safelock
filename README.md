@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![safelock's github stats](https://github-readme-stats.vercel.app/api?username=safelock&count_private=true&show_icons=true&theme=tokyonight)](https://www.github.com/safelock)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safelock&layout=compact&theme=tokyonight)](https://www.github.com/safelock?tab=repositories)
 
-- 🔭 I’m currently working on not Failing at my Last Finals in University.
+- 🔭 I’m currently working on finding my way in the world.
 - 🌱 I’m currently learning Go and PHP, because why not?
 - 📫 How to reach me: Use the email on my [website](https://www.randalllowe.com/#contact) or <a href="https://assets.rslowe.net/mailhide/email.html?mailKey=CLv4J1oBxv4GwSmSe1uI" onclick="window.open('https://assets.rslowe.net/mailhide/email.html?mailKey=CLv4J1oBxv4GwSmSe1uI', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Click to reveal this e-mail address, bots are annoying.">h...</a>@rslowe.net
 - 😄 Pronouns: He/Him/His or They/Them/Theirs (Either one is good!)
